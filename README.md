@@ -26,7 +26,7 @@ It suggests movies similar to the one selected using **cosine similarity** on mo
    ```bash
    git clone https://github.com/yourusername/movie-recommender-system.git
    cd movie-recommender-system
-````
+   ```
 
 2. Create virtual environment & activate:
 
